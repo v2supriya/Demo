@@ -1,4 +1,4 @@
 bower_components
 node_modules
-public/*
+app/public/*
 npm-debug.log
