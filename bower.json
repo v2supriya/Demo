@@ -1,0 +1,20 @@
+{
+  "name": "custom-bootstrap-example",
+  "description": "Customizing a Bootstrap SASS build with Bower =============================================",
+  "main": "gulpfile.js",
+  "authors": [
+    "Prasad Chaugule <prasad.chaugale@v2solutions.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/treyhunner/custom-bootstrap-example",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "^3.3.6"
+  }
+}
